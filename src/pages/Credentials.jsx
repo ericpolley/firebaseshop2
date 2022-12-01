@@ -11,7 +11,7 @@ export default function Credentials() {
       <h1 className=" text-2xl">Credentials</h1>
       <br />
      
-      <p>Just a lonely girl, living in a lonely world.</p>
+      <p>Certified.</p>
       <br /><br /><br /><br /><br />
       <p>This website is currently under construction...</p>
       </div>

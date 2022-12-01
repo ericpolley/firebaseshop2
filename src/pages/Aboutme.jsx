@@ -10,7 +10,7 @@ export default function Aboutme() {
       <h1 className=" text-2xl">About Me</h1>
       <br />
      
-      <p>Just a lonely girl, living in a lonely world.</p>
+      <p>Just a small town girl, living in a lonely world.</p>
       <br /><br /><br /><br /><br />
       <p>This website is currently under construction...</p>
       </div>
