@@ -4,7 +4,19 @@ import React from 'react'
 export default function Credentials() {
   return (
     <>
-    <div>Credentials</div>
+    <div className="flex w-full justify-center items-center">
+    <div className="flex flex-col w-full justify-center items-center ">
+      <br />
+     
+      <h1 className=" text-2xl">Credentials</h1>
+      <br />
+     
+      <p>Just a lonely girl, living in a lonely world.</p>
+      <br /><br /><br /><br /><br />
+      <p>This website is currently under construction...</p>
+      </div>
+      
+    </div>
     </>
   )
 }
