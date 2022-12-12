@@ -10,9 +10,10 @@ export default function Aboutme() {
       <h1 className=" text-2xl">About Me</h1>
       <br />
      
-      <p>Just a small town girl, living in a lonely world.</p>
-      <br /><br /><br /><br /><br />
-      <p>This website is currently under construction...</p>
+      <p>I am the on hand, Go-to resource for all of your Notary and Signing-Agent needs. <br />
+      I am certified by Washington State Notary Standards. <br />
+      Please feel free to request my Credentials.
+      </p>
       </div>
       
     </div>

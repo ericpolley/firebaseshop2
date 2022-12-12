@@ -7,7 +7,8 @@ import { initializeApp } from "firebase/app";
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Aboutme from './pages/Aboutme';
 import Contact from './pages/Contact';
-import Credentials from './pages/Credentials';
+import Footer from './components/Footer';
+import Services from './pages/Services';
 
 
 
@@ -43,8 +44,9 @@ function App() {
         <Route path='/' element={<Home />}/>
         <Route path='/Aboutme' element={<Aboutme />}/>
         <Route path='/Contact' element={<Contact />}/>
-        <Route path='/Credentials' element={<Credentials />}/>
+        <Route path='/Services' element={<Services />}/>
       </Routes>
+      <Footer />
     </Router>
  
     
