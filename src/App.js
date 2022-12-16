@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import Header from './components/Header'
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import Aboutme from './pages/Aboutme';
 import Contact from './pages/Contact';
 import Footer from './components/Footer';
